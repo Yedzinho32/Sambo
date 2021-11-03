@@ -1,2 +1,0 @@
-# Sambo
-Criador de tarefas 
